@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bassoapp.github.io/sitemap.xml
+Sitemap: https://basso.tikistudios.io/sitemap.xml
